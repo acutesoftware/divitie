@@ -57,3 +57,15 @@ Bookshelf example
 | 11 | SM_wood_plank_oak | 366 | 302 | 265 | 0.0 | 0.0 | 0.0 | 
 | 12 | SM_wood_plank_oak | 366 | 302 | 64 | 0.0 | 0.0 | 0.0 | 
 
+This data definition will layout 12 oak shapes in a bookshelf shown below
+
+![alt text](https://github.com/acutesoftware/divitie/blob/master/docs/builtitem_bookshelf.PNG "Bookshelf Built item")
+
+TODO - not sure if each structure should be in its own file?
+
+#### NPCs
+
+To generate NPC's you need to create a standard mesh from the game using the character creator and save this as a name
+
+The name is then added to the data file below along with details of the characters backstory, abilities, etc
+
